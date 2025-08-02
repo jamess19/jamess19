@@ -1,8 +1,7 @@
 # 👋 Hello there, I'm Jamess!
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" />
-
 ## 💡 About Me
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="270" />
 
 I'm a passionate software developer who enjoys solving real-world problems through code.  
 Currently exploring and building in the following areas:
@@ -31,7 +30,7 @@ Currently exploring and building in the following areas:
 
 ## 📈 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamess19&show_icons=true&theme=radical)
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamess19&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamess19&layout=compact&theme=radical)
 
 ---
@@ -39,7 +38,7 @@ Currently exploring and building in the following areas:
 ## 📫 Let's Connect
 
 - Email: qthong2004@gmail.com  
-- GitHub: [@yourusername](https://github.com/jamess19)  
+- GitHub: [@Jamess19](https://github.com/jamess19)  
 - LinkedIn: [https://linkedin.com/in/](https://www.linkedin.com/in/th%C3%B4ng-nguy%E1%BB%85n-8b9389155/) 
 
 ---
